@@ -1,3 +1,8 @@
+- name: Smart Vacay (2023)
+  description: Final project for Batch 1190 Web Development course. This Web App allows user to create an itinerary for their trip with a single click of a button.
+  image: projects/placeholder2.png
+  url: https://www.smartvacay.app
+
 - name: Longest Word Game
   description: Decent description of the app
   image: projects/placeholder.png
@@ -9,11 +14,6 @@
   url: https://www.google.com
 
 - name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Final project
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com

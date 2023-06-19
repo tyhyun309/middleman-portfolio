@@ -6,12 +6,10 @@
 
 .card-product {
   overflow: hidden;
-  height: 210px;
   background: white;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-  display: flex;
-  align-items: center;
   border-radius: 10px;
+  margin: 10px;
 }
 
 .card-product img {
@@ -27,7 +25,7 @@
 }
 
 .card-product p {
-  font-size: 12px;
+  font-size: 15px;
   line-height: 1.4;
   opacity: .7;
   margin-bottom: 0;
@@ -41,6 +39,10 @@
       opacity: 1;
     }
   }
+}
+
+.carousel-box {
+  height: 80%;
 }
 
 .external-link {
