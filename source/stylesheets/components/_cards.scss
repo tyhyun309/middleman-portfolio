@@ -13,9 +13,8 @@
 }
 
 .card-product img {
-  height: 100%;
-  width: 160px;
   object-fit: cover;
+  height: 45vh;
 }
 
 .card-product h2 {
@@ -42,7 +41,7 @@
 }
 
 .carousel-box {
-  height: 80%;
+  // height: 80%;
 }
 
 .external-link {
@@ -90,6 +89,9 @@
 @media (min-width: 992px) {
   .cards {
     grid-template-columns: 1fr 1fr;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 30px;
   }
 }
 
@@ -97,5 +99,8 @@
 @media (min-width: 1200px) {
   .cards {
     grid-template-columns: 1fr 1fr;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 30px;
   }
 }
