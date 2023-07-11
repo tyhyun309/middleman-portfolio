@@ -1,24 +1,24 @@
 - name: Smart Vacay (2023)
   description: Final project for Batch 1190 Web Development course. This Web App allows user to create an itinerary for their trip with a single click of a button.
-  image: projects/placeholder2.png
+  image: [projects/placeholder2.png, projects/placeholder.png, projects/placeholder2.png]
   url: https://www.smartvacay.app
+
+- name: Movie Watchlist
+  description: A Movie watch list created by Ruby on Rails
+  image: [projects/movielist1.png, projects/movielist2.png, projects/movielist3.png]
+  url: https://srr-watchlist.herokuapp.com/
 
 - name: Longest Word Game
   description: Decent description of the app
-  image: projects/placeholder.png
+  image: [projects/placeholder.png, projects/placeholder2.png, projects/placeholder.png]
   url: https://www.google.com
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
+- name: Death Dealers
+  description: A marketplace app inspired by the Airbnb model with a fun-twist (totally fictional)
+  image: [projects/placeholder.png, projects/placeholder2.png, projects/placeholder.png]
   url: https://www.google.com
 
 - name: My first react app
   description: Search some gifs from giphy
-  image: projects/placeholder.png
+  image: [projects/placeholder.png, projects/placeholder2.png, projects/placeholder.png]
   url: https://tyhyun309.github.io/workshop/
