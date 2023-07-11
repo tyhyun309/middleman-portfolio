@@ -1,6 +1,6 @@
 - name: Smart Vacay (2023)
   description: Final project for Batch 1190 Web Development course. This Web App allows user to create an itinerary for their trip with a single click of a button.
-  image: [projects/placeholder2.png, projects/placeholder.png, projects/placeholder2.png]
+  image: [projects/smart1.png, projects/smart2.png, projects/smart3.png, projects/smart4.png, projects/smart5.png]
   url: https://www.smartvacay.app
 
 - name: Movie Watchlist
