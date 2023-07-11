@@ -13,8 +13,9 @@
 }
 
 .card-product img {
-  object-fit: cover;
+  object-fit: contain;
   height: 45vh;
+  object-position: 50% 0%;
 }
 
 .card-product h2 {
@@ -40,9 +41,9 @@
   }
 }
 
-// .carousel-box {
-//   height: 80%;
-// }
+.carousel-box {
+  background-color: #d1d1d1;
+}
 
 .external-link {
   margin-left: 8px;
