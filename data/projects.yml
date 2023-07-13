@@ -3,22 +3,22 @@
   image: [projects/smart1.png, projects/smart2.png, projects/smart3.png, projects/smart4.png, projects/smart5.png]
   url: https://www.smartvacay.app
 
-- name: Movie Watchlist
-  description: A Movie watch list created by Ruby on Rails
+- name: Movie Watchlist (2023)
+  description: A Movie watch list created by Ruby on Rails. You can create your own movie list too.
   image: [projects/movielist1.png, projects/movielist2.png, projects/movielist3.png]
   url: https://srr-watchlist.herokuapp.com/
 
-- name: Longest Word Game
+- name: Longest Word Game (2023)
   description: Decent description of the app
   image: [projects/placeholder.png, projects/placeholder2.png, projects/placeholder.png]
   url: https://www.google.com
 
-- name: Death Dealers
+- name: Death Dealers (2023)
   description: A marketplace app inspired by the Airbnb model with a fun-twist (totally fictional)
   image: [projects/placeholder.png, projects/placeholder2.png, projects/placeholder.png]
   url: https://www.google.com
 
-- name: My first react app
+- name: My first react app (2023)
   description: Search some gifs from giphy
   image: [projects/giphy1.png, projects/giphy2.png, projects/giphy3.png]
   url: https://tyhyun309.github.io/workshop/
