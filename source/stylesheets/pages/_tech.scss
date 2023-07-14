@@ -1,7 +1,46 @@
 #tech i {
   font-size: 60px;
   padding: 10px;
+  color: black;
 }
-#tech p {
-  margin: 15px 0px;
+
+.row-item {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  padding: 40px;
+}
+
+// Smallest device
+@media (min-width: 100px) and (max-width: 575px) {
+  #tech i {
+    font-size: 30px;
+  }
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+  #tech i {
+    font-size: 40px;
+  }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  #tech i {
+    font-size: 40px;
+  }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  #tech i {
+    font-size: 60px;
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  #tech i {
+    font-size: 60px;
+  }
 }
