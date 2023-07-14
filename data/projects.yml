@@ -21,4 +21,4 @@
 - name: My first react app (2023)
   description: Search some gifs from giphy
   image: [projects/giphy1.png, projects/giphy2.png, projects/giphy3.png]
-  url: https://tyhyun309.github.io/workshop/
+  url: https://tyhyun309-giphy.netlify.app

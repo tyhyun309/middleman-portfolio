@@ -61,6 +61,13 @@
   .cards {
     grid-template-columns: 1fr;
   }
+
+  .card-product img {
+    object-fit: scale-down;
+    height: 45vh;
+    object-position: 50% 50%;
+  }
+
   .external-link {
     opacity: 1;
   }
