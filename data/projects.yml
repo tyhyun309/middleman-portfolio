@@ -18,7 +18,7 @@
   image: [projects/hire1.png, projects/hire2.png, projects/hire3.png]
   url: https://hire-assassin.herokuapp.com/
 
-- name: Simple Budget Tracker (2023) (👷🏻 still under construction... 🛠️)
+- name: Simple Budget Tracker (2023) (👷🏻 Keep updating... 🛠️)
   description: A simple budget tracker built with ReactJS
   image: [projects/placeholder.png, projects/placeholder2.png, projects/placeholder.png]
   url: https://tyhyun309.github.io/budget-tracker/
