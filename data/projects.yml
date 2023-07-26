@@ -8,7 +8,7 @@
   image: [projects/movielist1.png, projects/movielist2.png, projects/movielist3.png]
   url: https://srr-watchlist.herokuapp.com/
 
-- name: My first react app (2023)
+- name: My first react app (Giphy) (2023)
   description: Solo project. Searching gifs using giphy API. First time playing with ReactJS.
   image: [projects/giphy1.png, projects/giphy2.png, projects/giphy3.png]
   url: https://tyhyun309.github.io/workshop/
@@ -17,6 +17,11 @@
   description: "Group project with Batch 1190 Web Development. A marketplace app inspired by the Airbnb model with a fun-twist (totally fictional). You can hire an assassin or you can register yourself as an assassin.\n\nREMINDER: IT'S ALL FAKE AND FICTIONAL!!!"
   image: [projects/hire1.png, projects/hire2.png, projects/hire3.png]
   url: https://hire-assassin.herokuapp.com/
+
+- name: Simple Budget Tracker (2023) (👷🏻 still under construction... 🛠️)
+  description: A simple budget tracker built with ReactJS
+  image: [projects/placeholder.png, projects/placeholder2.png, projects/placeholder.png]
+  url: https://tyhyun309.github.io/budget-tracker/
 
 - name: Longest Word Game (2023) (Update soon)
   description: 👷🏻 Under construction... 🛠️
