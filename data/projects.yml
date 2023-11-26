@@ -25,16 +25,16 @@
 - name: Simple Budget Tracker (Ruby on Rails) (2023)
   tech: <i class="devicon-rails-plain-wordmark colored h3"></i>
   description: Solo project. A budget tracker built with Ruby on Rails. (will be online soon)
-  image: [projects/placeholder.png, projects/placeholder2.png, projects/placeholder.png]
-  url: https://tyhyun.me
+  image: [projects/rails-budget-1.png, projects/rails-budget-2.png, projects/rails-budget-3.png, projects/rails-budget-4.png]
+  url: #
 
-- name: Simple Budget Tracker (React) (2023) (👷🏻 Realll simple...)
+- name: Simple Budget Tracker (React) (2023) (👷🏻 Really basic one...)
   tech: <i class="devicon-react-original-wordmark colored h3"></i>
   description: Solo project. A simple budget tracker built with ReactJS
   image: [projects/react-budget-1.png, projects/react-budget-2.png]
   url: https://tyhyun309.github.io/budget-tracker/
 
 - name: Longest Word Game (2023) (Update soon)
-  description: 👷🏻 Under construction... 🛠️
+  description: Solo project. 👷🏻 Under construction... 🛠️
   image: [projects/placeholder.png, projects/placeholder2.png, projects/placeholder.png]
   url: https://tyhyun.me
