@@ -28,7 +28,7 @@
   image: [projects/rails-budget-1.png, projects/rails-budget-2.png, projects/rails-budget-3.png, projects/rails-budget-4.png]
   url: https://github.com/tyhyun309/rails-budget-tracker
 
-- name: Simple Weather App
+- name: Weather App (2023)
   tech: <i class="devicon-javascript-plain colored h3"></i>
   description: Solo project. An app for checking current weather, built with Javascript
   image: [projects/weather-1.png, projects/weather-2.png, projects/weather-3.png, projects/weather-4.png]
@@ -40,7 +40,8 @@
   image: [projects/react-budget-1.png, projects/react-budget-2.png]
   url: https://tyhyun309.github.io/budget-tracker/
 
-- name: Longest Word Game (2023) (Update soon)
-  description: Solo project. 👷🏻 Under construction... 🛠️
-  image: [projects/placeholder.png, projects/placeholder2.png, projects/placeholder.png]
-  url: https://tyhyun.me
+- name: Mini quiz (2023)
+  tech: <i class="devicon-javascript-plain colored h3"></i>
+  description: Solo project. A mini quiz built with Javascript
+  image: [projects/quiz-1.png, projects/quiz-2.png, projects/quiz-3.png]
+  url: https://tyhyun309.github.io/js-quiz/
