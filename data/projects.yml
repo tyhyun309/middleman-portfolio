@@ -34,6 +34,12 @@
   image: [projects/weather-1.png, projects/weather-2.png, projects/weather-3.png, projects/weather-4.png]
   url: https://tyhyun-weather-app-2e2bee251a5f.herokuapp.com/
 
+- name: Tic-Tac-Toe (2024)
+  tech: <i class="devicon-java-plain-wordmark colored h3"></i>
+  description: Solo project. A simple Tic-Tac-Toe, built with Java, Swing, AWT
+  image: [projects/ttt-1.png, projects/ttt-2.png, projects/ttt-3.png, projects/ttt-4.png]
+  url: https://github.com/tyhyun309/java-tictactoe
+
 - name: Simple Budget Tracker (React) (2023) (Really basic one...)
   tech: <i class="devicon-react-original-wordmark colored h3"></i>
   description: Solo project. A simple budget tracker built with ReactJS
